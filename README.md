@@ -26,6 +26,7 @@ Tớ đã update lại server và chỉ cần sửa config là xài được r�
 `./component/hooks/Submit.js/`
 
 Tớ làm project với mục đích share cho cộng đồng, nên mong cậu giữ credit cho tớ nha!
+Credit gốc: https://github.com/yunkhngn/luu-but-source
 
 <br>
 <img src="https://wallpapers.com/images/featured/vmdj9lfm2un8rji3.jpg" style="border-radius:5px, margin-top:15px"/>
